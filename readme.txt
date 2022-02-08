@@ -1,0 +1,1 @@
+All textfiles should be place into the "BuyLowSellHigh\bin\Debug\net5.0\" folder or wherever the .exe file is being run from, they will then be detected by the application

@@ -1,0 +1,16 @@
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\BuyLowSellHigh.exe
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\BuyLowSellHigh.deps.json
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\BuyLowSellHigh.runtimeconfig.json
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\BuyLowSellHigh.runtimeconfig.dev.json
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\BuyLowSellHigh.dll
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\ref\BuyLowSellHigh.dll
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\bin\Debug\net5.0\BuyLowSellHigh.pdb
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.csproj.AssemblyReference.cache
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.GeneratedMSBuildEditorConfig.editorconfig
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.AssemblyInfoInputs.cache
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.AssemblyInfo.cs
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.csproj.CoreCompileInputs.cache
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.dll
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\ref\BuyLowSellHigh.dll
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.pdb
+S:\Desktop\Job Stuff\Computershare\TechTest\BuyLowSellHigh\BuyLowSellHigh\obj\Debug\net5.0\BuyLowSellHigh.genruntimeconfig.cache

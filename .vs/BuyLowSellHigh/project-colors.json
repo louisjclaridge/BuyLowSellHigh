@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b89b82a-5280-41e5-975e-27aaf0e32b83": {
+      "ProjectGuid": "1b89b82a-5280-41e5-975e-27aaf0e32b83",
+      "DisplayName": "BuyLowSellHigh",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
